@@ -1,11 +1,5 @@
 # 🚀 APE 4 — Segundo Parcial UTA
 
-<p align="center">
-  <img src="https://shields.io" alt="UTA Badge">
-  <img src="https://shields.io" alt="Materia Badge">
-  <img src="https://shields.io" alt="Status Badge">
-</p>
-
 ---
 
 ## 📌 Descripción del Proyecto
