@@ -30,10 +30,10 @@ public class RegistroProductos {
             bw.write(registro);
             bw.newLine();
             
-            System.out.println("\n¡Producto registrado y añadido con éxito al archivo!");
+            System.out.println("\nProducto registrado y aniadido con exito al archivo!");
             
         } catch (IOException e) {
-            System.out.println("Ocurrió un error al escribir en el archivo: " + e.getMessage());
+            System.out.println("Ocurrio un error al escribir en el archivo: " + e.getMessage());
         } finally {
             teclado.close();
         }
