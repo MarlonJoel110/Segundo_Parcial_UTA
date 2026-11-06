@@ -8,7 +8,7 @@ public class RegistroProductos {
         Scanner teclado = new Scanner(System.in);
         String nombreArchivo = "productos.txt";
         
-        System.out.println("--- Registro de Productos (Modo Append) ---");
+        System.out.println("--- Registro de Productos ---");
         
         System.out.print("Ingrese el nombre del producto: ");
         String nombre = teclado.nextLine();
