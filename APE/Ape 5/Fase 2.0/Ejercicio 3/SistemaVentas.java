@@ -53,7 +53,7 @@ public class SistemaVentas {
                 bw.newLine();
             }
             
-            String lineaTotal = String.format("TOTAL ACUMULADO DE LA SESIÓN: $%.2f", totalAcumuladoGeneral);
+            String lineaTotal = String.format("TOTAL ACUMULADO DE LA SESION: $%.2f", totalAcumuladoGeneral);
             bw.write(lineaTotal);
             bw.newLine();
             bw.write("=================================");
